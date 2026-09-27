@@ -81,7 +81,7 @@ FreshTrace was conceived, engineered, deployed, and proven at the **AWS x WeMake
 * **Prize Grant:** Awarded **$1,000 in Amazon Web Services (AWS) Cloud Credits** by technical judges.
 * **Scale of Competition:** Singled out as a standout project from **13,667+ registered developers and teams** across India.
 * **Official Recognition:** Featured on the official [WeMakeDevs First Commit Showcase](https://www.wemakedevs.org/aws/first-commit/projects).
-* **Team:** **Powerpuff Girls** ([@Sai Koushik Reddy Pallapolu](https://github.com/saikoushik), [@Shiva Sai](https://github.com/schrodingerscat07), [@Rakshit Chaturvedi](https://github.com/RakshitChaturvedi), [@Veerabhadra Yerram](https://github.com/VeerabhadraYerram)).
+* **Team:** **Powerpuff Girls** ([@Sai Koushik Reddy Pallapolu](https://github.com/saikoushikpallapolu), [@Shiva Sai](https://github.com/schrodingerscat07), [@Rakshit Chaturvedi](https://github.com/RakshitChaturvedi), [@Veerabhadra Yerram](https://github.com/VeerabhadraYerram)).
 
 ---
 
